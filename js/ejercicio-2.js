@@ -4,7 +4,7 @@ function hashtag_ (n){
 
 	for ( i = 0 ; i < num ; i++){
 		var hash = "#";
-		var espacio = "  ";
+		var espacio = "  gi";
 		var cont = 1;
 		for ( j = 0 ; j < num ; j++){
 
